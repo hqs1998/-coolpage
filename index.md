@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## HELLO PAGES
 
 You can use the [editor on GitHub](https://github.com/hqs1998/-coolpage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
